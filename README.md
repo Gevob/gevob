@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 there</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brendon-mendicino&label=Profile%20views&color=0e75b6&style=flat" alt="gevob" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gevob&label=Profile%20views&color=0e75b6&style=flat" alt="gevob" /> </p>
 
 - 📚️ I am a cybersecurity student at the Polytechnic University of turin
 
